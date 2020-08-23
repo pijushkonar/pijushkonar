@@ -44,4 +44,7 @@
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=pijush-konar-au7&show_icons=true alt=pijush-konar-au7 /> </p>
 
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=pijush-konar-au7&layout=compact&hide=html alt=pijush-konar-au7 /> </p>
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pijush-konar-au7&layout=compact&hide=html" alt="pijush-konar-au7" /></p>
