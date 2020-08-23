@@ -11,9 +11,17 @@
 
 - 🔭 I’m currently working on [My React Project](https://github.com/pijush-konar-au7/react_app)
 
+- 👯 I’m looking to collaborate on React Website with AI Features.
+
+- 🤔 I’m looking for help with [My React Project](https://github.com/pijush-konar-au7/react_app)
+
 - 💬 Ask me about **React, Node.js, JavaScript and Python**
 
 - 📫 How to reach me **pjk612@gmail.com**
+
+- 👨‍💻 All of my projects are available at [My GitHub Profile](https://github.com/pijush-konar-au7)
+
+- ⚡ Fun fact **Basketball over Cricket**
 
 
 <p align="center">
