@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [My React Project](https://github.com/pijush-konar-au7/react_app)
 
-- 👯 I’m looking to collaborate on React Website with AI Features.
+- 👯 I’m looking to collaborate on A React  Project.
 
 - 🤔 I’m looking for help with [My React Project](https://github.com/pijush-konar-au7/react_app)
 
