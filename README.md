@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pijush Konar</h1>
+<p align="center">
+<a href="https://twitter.com/thecazzguy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thecazzguy" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/pijushkonar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pijushkonar" height="30" width="30" /></a>
+<a href="https://fb.com/thecazzguy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="thecazzguy" height="30" width="30" /></a>
+<a href="https://instagram.com/thecazzguy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thecazzguy" height="30" width="30" /></a>
+</p>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pijush-konar-au7" alt="pijush-konar-au7" /> </p>
@@ -15,12 +21,7 @@
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=pijush-konar-au7&show_icons=true" alt="pijush-konar-au7 /> </p>
 
 
-<p align="center">
-<a href="https://twitter.com/thecazzguy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thecazzguy" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/pijushkonar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pijushkonar" height="30" width="30" /></a>
-<a href="https://fb.com/thecazzguy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="thecazzguy" height="30" width="30" /></a>
-<a href="https://instagram.com/thecazzguy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thecazzguy" height="30" width="30" /></a>
-</p>
+
 
 
 <!--
