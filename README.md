@@ -15,6 +15,8 @@
 
 - 🤔 I’m looking for help with [My React Project](https://github.com/pijush-konar-au7/react_app)
 
+- 🌱 I’m currently learning **everything! 😅**
+
 - 💬 Ask me about **React, Node.js, JavaScript and Python**
 
 - 📫 How to reach me **pjk612@gmail.com**
