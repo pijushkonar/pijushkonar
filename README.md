@@ -9,11 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pijush-konar-au7" alt="pijush-konar-au7" /> </p>
 
-- 🔭 I’m currently working on [My React Project](https://github.com/pijush-konar-au7/react_app)
+- 🔭 I’m currently working on [My React Project](https://github.com/attainu/project-pijush-konar-au7)
 
-- 👯 I’m looking to collaborate on A React  Project.
+- 👯 I’m looking to collaborate on Advance React Project.
 
-- 🤔 I’m looking for help with [My React Project](https://github.com/pijush-konar-au7/react_app)
+- 🤔 I’m looking for help with [My React Project](https://github.com/attainu/project-pijush-konar-au7)
 
 - 🌱 I’m currently learning **everything! 😅**
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **pjk612@gmail.com**
 
-- 👨‍💻 All of my projects are available at [My GitHub Profile](https://github.com/pijush-konar-au7)
+- 👨‍💻 All of my projects are available at [Website](pijush.info)
 
 - ⚡ Fun fact **Basketball over Cricket**
 
