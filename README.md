@@ -7,7 +7,7 @@
 </p>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pijush-konar-au7" alt="pijush-konar-au7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pijushkonar" alt="pijushkonar" /> </p>
 
 - 🔭 I’m currently working on My React Project.
 
@@ -50,7 +50,7 @@
 </p>
 
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=pijush-konar-au7&show_icons=true alt=pijush-konar-au7 /> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=pijushkonar&show_icons=true alt=pijush-konar-au7 /> </p>
 
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=pijush-konar-au7&layout=compact&hide=html alt=pijush-konar-au7 /> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=pijushkonar&layout=compact&hide=html alt=pijush-konar-au7 /> </p>
