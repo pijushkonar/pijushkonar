@@ -54,3 +54,13 @@
 
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=pijushkonar&layout=compact&hide=html alt=pijush-konar-au7 /> </p>
+
+---
+
+
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/pjk612)
+<br/>
+---
