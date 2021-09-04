@@ -14,7 +14,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **My React Project.**
+- 🔭 I’m currently working on **My React Project. **
 
 - 🌱 I’m currently learning **everything! 😅**
 
