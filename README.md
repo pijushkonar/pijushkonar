@@ -95,9 +95,9 @@
 
 <br>
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs?username=pijushkonar&show_icons=true&locale=en&layout=compact alt=pijushkonar /> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs?username=pijushkonar&show_icons=true&locale=en&layout=compact&theme=dark alt=pijushkonar /> </p>
 
-<p align="center"> &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pijushkonar&show_icons=true&locale=en" alt="pijushkonar" /></p>
+<p align="center"> &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pijushkonar&show_icons=true&locale=en&theme=dark" alt="pijushkonar" /></p>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=pijushkonar&theme=dark" alt="pijushkonar" /></p>
 
