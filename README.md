@@ -100,5 +100,3 @@
 <p align="center"> &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pijushkonar&show_icons=true&locale=en&theme=dark" alt="pijushkonar" /></p>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=pijushkonar&theme=dark" alt="pijushkonar" /></p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pijushkonar&theme=dark)](https://git.io/streak-stats)
