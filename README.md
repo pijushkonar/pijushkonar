@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with **Advance React & Vue.Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pijushkonar/](https://github.com/pijushkonar/pijushkonar/blob/master/pijush.info)
+- 👨‍💻 All of my projects are available at [https://github.com/pijushkonar/](https://github.com/pijushkonar?tab=repositories).
 
 - 💬 Ask me about **React, Node.js, JavaScript and Python.**
 
