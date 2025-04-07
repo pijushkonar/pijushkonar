@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **Web Apps and anything that includes JavaScript.**
 
-- 🤝 I’m looking for help with **Advance React & Vue.Js**
+- 🤝 I’m looking for help with **Working on more New Age AI Web Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pijushkonar/](https://github.com/pijushkonar?tab=repositories).
 
